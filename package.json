@@ -1,0 +1,20 @@
+{
+	"name": "moongourd-spy",
+	"version": "1.0.0",
+	"description": "",
+	"main": "./lib/moongourdSpy.js",
+	"engines": {
+	  "node": ">=12.4.0"
+	},
+	"scripts": {
+	  "lint": "npx eslint '**/*.js' --fix",
+	  "manifest": "node ./.manifest.js"
+	},
+	"author": "SaltyMonkey",
+	"license": "MIT",
+	"devDependencies": {
+	  "babel-eslint": "^10.1.0",
+	  "eslint": "^6.8.0",
+	  "eslint-plugin-node": "^11.1.0"
+	}
+  }

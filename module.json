@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "moongourd-spy",
+    "options": {
+        "cliName": "MS",
+        "guiName": "Moongourd Spy",
+        "settingsVersion": 1,
+        "settingsFile": "./settings/settings.json",
+        "settingsMigrator": "./lib/migration.js"
+    },
+    "author": "SaltyMonkey",
+    "description": "Gathering stats about player DPS from Moongourd without leaving Tera Online.",
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/moongourd-spy/master/"],
+    "supportUrl": "https://github.com/SaltyMonkey/moongourd-spy/issues"
+}
