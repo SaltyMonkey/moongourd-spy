@@ -22,6 +22,8 @@ autoCheckAtInspect - enable/disable automatic check by every inspect event in ga
 
 /8 ms i <name> - manually inspect user by username
 
+/8 ms seq - enable/disable keepContinentsSequence
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

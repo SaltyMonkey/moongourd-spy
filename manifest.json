@@ -1,11 +1,11 @@
 {
 	"files": {
 		"lib/migration.js": "f0a2f88d2241e6812389db0b36ce6b45f52e9122b7f2ea0a494d4510408768a6",
-		"lib/moongourdSpy.js": "effc3d44a1c1be218b703bf03e995f58933a1e579945f3c09e66f48f64e46576",
+		"lib/moongourdSpy.js": "651912ff0f7764ed104eb969888ea806fbd6e12b052be2702599223cb6b5d9cb",
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"module.json": "3ab1254e3285da67cc54d08f0f2942508dfec137d2bcce9eb5df1247c62a64b6",
 		"package.json": "84982aca09bf754415604f470d499e6dba8d2f7e8bf9d0fc2f56edd614e72eee",
-		"README.md": "a0403e51131fed46b407fb30658ccf846182b12d5f05527c06fa8a58284c2074",
+		"README.md": "4dc03470f03b47a87c11fa08e2548073cec869ca4b19da6e51201ce86c8e3051",
 		"settings/settings.json": {
 			"overwrite": false,
 			"hash": "0de64a0222b6dff635f12ec7c94c06d7c902ce1269259ba0b1eebf651641f493"
