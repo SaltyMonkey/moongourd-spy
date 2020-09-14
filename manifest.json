@@ -1,14 +1,14 @@
 {
 	"files": {
-		"lib/migration.js": "91f71c0822cbc93a066659568e543209618e96603c50f50f37d2c4945362cd16",
-		"lib/moongourdSpy.js": "7569a157685407b8dc4c2e9cc47c20f7abcae2d3a44a3adddb7d81ba129de755",
+		"lib/migration.js": "f0a2f88d2241e6812389db0b36ce6b45f52e9122b7f2ea0a494d4510408768a6",
+		"lib/moongourdSpy.js": "effc3d44a1c1be218b703bf03e995f58933a1e579945f3c09e66f48f64e46576",
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"module.json": "39e38b857fcc61371c6063c4fc80c4817b827f4710cfa6d03ca38da7973b87ee",
+		"module.json": "3ab1254e3285da67cc54d08f0f2942508dfec137d2bcce9eb5df1247c62a64b6",
 		"package.json": "84982aca09bf754415604f470d499e6dba8d2f7e8bf9d0fc2f56edd614e72eee",
-		"README.md": "f70a900e2326a47477244b34a89dd07b20ff1c0635f02f9073b4b1827b44e3d2",
+		"README.md": "a0403e51131fed46b407fb30658ccf846182b12d5f05527c06fa8a58284c2074",
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "e71906f829d31d7f5c5c144c954c52c6df2313b20ca4d4f50ae59b0b5a80d38e"
+			"hash": "0de64a0222b6dff635f12ec7c94c06d7c902ce1269259ba0b1eebf651641f493"
 		}
 	}
 }

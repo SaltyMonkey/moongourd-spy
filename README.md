@@ -6,9 +6,15 @@ TERA Toolbox module for gathering stats about player DPS from Moongourd without 
 
 ## Features
 
-- Customizable (you can edit auto inspect dungeons list in settings)
+- Customizable (you can edit auto inspect dungeons list in settings and request mode)
 - Manual inspect command
 - Optional auto inspect mode (enabled by default)
+
+## Settings
+
+keepContinentsSequence - if `true` then moongourd spy will preserve sequence of dungeons when doing requests (slower but more organized output), false - faster but data can be displayed not in defined sequence. Default: false.
+
+autoCheckAtInspect - enable/disable automatic check by every inspect event in game.
 
 ## Commands
 

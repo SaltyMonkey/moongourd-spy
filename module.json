@@ -4,7 +4,7 @@
     "options": {
         "cliName": "MS",
         "guiName": "Moongourd Spy",
-        "settingsVersion": 1,
+        "settingsVersion": 2,
         "settingsFile": "./settings/settings.json",
         "settingsMigrator": "./lib/migration.js"
     },

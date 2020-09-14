@@ -1,15 +1,19 @@
 {
-	"autoCheckAtInspect": true,
-	"continentsToCheck": [
-		{
-			"continent": 3202,
-			"boss": 1000,
-			"name": "Kalligar HM"
-		},
-		{
-			"continent": 3027,
-			"boss": 1000,
-			"name": "Hagufna"
-		}
-	]
+	"version": 2,
+	"data": {
+		"autoCheckAtInspect": true,
+		"keepContinentsSequence": false,
+		"continentsToCheck": [
+			{
+				"continent": 3202,
+				"boss": 1000,
+				"name": "Kalligar HM"
+			},
+			{
+				"continent": 3027,
+				"boss": 1000,
+				"name": "Hagufna"
+			}
+		]
+	}
 }
