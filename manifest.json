@@ -1,7 +1,7 @@
 {
 	"files": {
 		"lib/migration.js": "180aead516b2e7c92b6d2d36791d9507c8fb671cf96f61f1c0e39e38a0dd6bbf",
-		"lib/moongourdSpy.js": "d802910750511af760f93f7474ec97c600cffa254c08af6cd5a3ade2b1f658db",
+		"lib/moongourdSpy.js": "a4caa3e290b3d6fb6666d9a6e01772ece79931c01236a2231eee0525abdeaaad",
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"module.json": "3ab1254e3285da67cc54d08f0f2942508dfec137d2bcce9eb5df1247c62a64b6",
 		"package.json": "84982aca09bf754415604f470d499e6dba8d2f7e8bf9d0fc2f56edd614e72eee",
