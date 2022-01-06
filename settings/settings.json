@@ -9,25 +9,32 @@
 				"continent": 3102,
 				"boss": 1000,
 				"name": "DAN",
-				"expectedDpsAvg": 15000000
+				"expectedDpsAvg": 15000000,
+				//phase: 1
 			},
 			{
 				"continent": 3202,
 				"boss": 1000,
 				"name": "DAH",
-				"expectedDpsAvg": 10000000
+				"expectedDpsAvg": 10000000,
+				//phase: 1
+
 			},
 			{
 				"continent": 3103,
 				"boss": 1000,
 				"name": "FAU",
-				"expectedDpsAvg": 12000000
+				"expectedDpsAvg": 12000000,
+				//phase: 1
+
 			},
 			{
 				"continent": 456,
 				"boss": 1003,
 				"name": "TSH",
-				"expectedDpsAvg": 10000000
+				"expectedDpsAvg": 10000000,
+				//phase: 1
+
 			}
 		]
 	}

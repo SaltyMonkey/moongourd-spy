@@ -1,14 +1,14 @@
 {
 	"files": {
 		"lib/migration.js": "180aead516b2e7c92b6d2d36791d9507c8fb671cf96f61f1c0e39e38a0dd6bbf",
-		"lib/moongourdSpy.js": "4ffe38766f8ac35bece527766d2fa1709661acdc64f291b77b80c2b0f928b469",
+		"lib/moongourdSpy.js": "3ca4d75fc6fafc9eaf8c241de0a4760101162407b141e1a8741559b21961ace1",
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
 		"module.json": "3ab1254e3285da67cc54d08f0f2942508dfec137d2bcce9eb5df1247c62a64b6",
 		"package.json": "84982aca09bf754415604f470d499e6dba8d2f7e8bf9d0fc2f56edd614e72eee",
 		"README.md": "c9bd4e7e509c77299f95cecb1008732a3c471fb1a21b8deacfbf1f427c578a27",
 		"settings/settings.json": {
 			"overwrite": false,
-			"hash": "48ccbc837de8eeff7f50c11af240cb3be1f69d00e2ad3dd84a7ce0039349b7bd"
+			"hash": "e2b76fcca840650100ee3c9608b3e75dacd9be453cbf7752fc1bd401d5759eea"
 		}
 	}
 }
